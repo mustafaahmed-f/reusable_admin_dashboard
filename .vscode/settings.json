@@ -13,6 +13,10 @@
     "statusBar.debuggingForeground": "#000000",
     "tab.activeBorder": "#e2a6fc",
     "iLoveWorkSpaceColors": true,
-    "iLoveWorkSpaceRandom": false
+    "iLoveWorkSpaceRandom": false,
+    "folderIcon.foreground": "#e2a6fc",
+    "folderIcon.activeForeground": "#e2a6fc",
+    "folderIcon.background": "#000000",
+    "folderIcon.activeBackground": "#000000"
   }
 }
